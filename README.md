@@ -1,5 +1,6 @@
-Desafio TDD para entregar
-TAREFA: TDD Event-City
+**Desafio TDD para entregar**
+
+**TAREFA: TDD Event-City**
 
 Implemente as funcionalidades necessárias para que os testes do projeto abaixo passem:
 https://github.com/devsuperior/bds02
